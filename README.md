@@ -36,4 +36,4 @@ This repository contains the dockerized version of the Flarie TODO application w
   The k8s/ directory contains the following manifests:
 
    -> deployment.yaml - Defines the Deployment for the application.<br/>
-   -> service.yaml - Exposes the application as a NodePort service on port 34567. 
+   -> service.yaml - Exposes the application as a NodePort service on port 32767. 
